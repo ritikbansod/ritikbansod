@@ -10,7 +10,7 @@
 - ☸️ Deploying containerized services on **Kubernetes with Helm** inside **Service Mesh** environments; **Kafka + Strimzi** for event-driven communication
 - ⚡ Cut backend processing time by **25%** and boosted deployment efficiency by **30%** through Jenkins **CI/CD** automation
 - 📊 Observability with **Prometheus & Grafana**; root-cause analysis of production issues across distributed services
-- 🤖 Leveling up as an **AI-augmented engineer**: using AWS Kiro (Claude) agent workflows daily and wiring **MCP servers** into Java microservices
+- 🤖 Leveling up as an **AI-augmented engineer**: using AWS Kiro and Claude agent workflows daily and wiring **MCP servers** into Java microservices
 - 🎓 **AWS Certified Cloud Practitioner** · Kubernetes Application Developer Training (KodeKloud) · Spring Boot L1 & L2 (Wipro)
 
 ## 🤖 AI-Native Development (2026 Stack)
@@ -19,7 +19,7 @@ I treat AI tooling like production infrastructure, with the same rigor as any ot
 
 | Layer | Tools I work with |
 |-------|------------------|
-| **Pair & agent coding** | AWS Kiro, a Claude-powered agentic IDE, for spec-driven scaffolding, refactors & test generation |
+| **Pair & agent coding** | AWS Kiro for spec-driven agent workflows; Claude for AI-assisted development & code review |
 | **Context protocol** | **MCP (Model Context Protocol)**: connecting LLMs to real backend/DevOps context |
 | **AI in the JVM** | **Spring AI** & **LangChain4j** for chat, embeddings & MCP servers in Spring Boot |
 | **AI-assisted delivery** | AI code review, log-triage & root-cause analysis in CI pipelines |
