@@ -6,21 +6,21 @@
 
 ## 👨‍💻 About Me
 
-- 🔧 **Java Backend Developer** with **3+ years** at **Wipro Limited, Pune** — designing enterprise-grade web apps and cloud-native microservices with **Core Java, Spring Boot & REST**
+- 🔧 **Java Backend Developer** with **3+ years** at **Wipro Limited, Pune**, designing enterprise-grade web apps and cloud-native microservices with **Core Java, Spring Boot & REST**
 - ☸️ Deploying containerized services on **Kubernetes with Helm** inside **Service Mesh** environments; **Kafka + Strimzi** for event-driven communication
 - ⚡ Cut backend processing time by **25%** and boosted deployment efficiency by **30%** through Jenkins **CI/CD** automation
 - 📊 Observability with **Prometheus & Grafana**; root-cause analysis of production issues across distributed services
-- 🤖 Leveling up as an **AI-augmented engineer** — using Copilot agent workflows daily and wiring **MCP servers** into Java microservices
+- 🤖 Leveling up as an **AI-augmented engineer**: using Copilot agent workflows daily and wiring **MCP servers** into Java microservices
 - 🎓 **AWS Certified Cloud Practitioner** · Kubernetes Application Developer Training (KodeKloud) · Spring Boot L1 & L2 (Wipro)
 
 ## 🤖 AI-Native Development (2026 Stack)
 
-I treat AI tooling like production infrastructure — with the same rigor as any other part of the pipeline:
+I treat AI tooling like production infrastructure, with the same rigor as any other part of the pipeline:
 
 | Layer | Tools I work with |
 |-------|------------------|
 | **Pair & agent coding** | GitHub Copilot (agent mode) for scaffolding, refactors & test generation |
-| **Context protocol** | **MCP (Model Context Protocol)** — connecting LLMs to real backend/DevOps context |
+| **Context protocol** | **MCP (Model Context Protocol)**: connecting LLMs to real backend/DevOps context |
 | **AI in the JVM** | **Spring AI** & **LangChain4j** for chat, embeddings & MCP servers in Spring Boot |
 | **AI-assisted delivery** | AI code review, log-triage & root-cause analysis in CI pipelines |
 
@@ -82,7 +82,7 @@ I treat AI tooling like production infrastructure — with the same rigor as any
 </div>
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/ritikbansod">ritikbansod</a> — endlessly curious, now with AI in the loop.</i>
+  <i>⭐ From <a href="https://github.com/ritikbansod">ritikbansod</a>, endlessly curious, now with AI in the loop.</i>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:C97B63,50:5A2E22,100:1C1210&text=Thanks%20for%20visiting!&fontSize=22&fontAlignY=72&animation=twinkling&section=footer" width="100%" alt="footer"/>
