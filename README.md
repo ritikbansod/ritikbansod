@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1C1210,50:5A2E22,100:C97B63&text=Ritik%20Bansod&fontSize=46&fontAlignY=34&desc=Java%20Backend%20%C2%B7%20DevOps%20%C2%B7%20AI-Augmented%20Systems&descSize=17&descAlignY=55&animation=fadeIn&section=header" width="100%" alt="header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E8A87C&center=true&vCenter=true&width=680&height=60&lines=Java+Backend+Developer+%40+Wipro;Spring+Boot+%E2%80%A2+Microservices+%E2%80%A2+Kubernetes;Kafka+%E2%80%A2+Helm+%E2%80%A2+CI%2FCD+%E2%80%A2+Service+Mesh;AI-Augmented+Engineering%3A+Copilot+%26+MCP" alt="typewriter"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E8A87C&center=true&vCenter=true&width=680&height=60&lines=Java+Backend+Developer+%40+Wipro;Spring+Boot+%E2%80%A2+Microservices+%E2%80%A2+Kubernetes;Kafka+%E2%80%A2+Helm+%E2%80%A2+CI%2FCD+%E2%80%A2+Service+Mesh;AI-Augmented+Engineering%3A+Kiro+%26+MCP" alt="typewriter"/>
 </div>
 
 ## 👨‍💻 About Me
@@ -10,7 +10,7 @@
 - ☸️ Deploying containerized services on **Kubernetes with Helm** inside **Service Mesh** environments; **Kafka + Strimzi** for event-driven communication
 - ⚡ Cut backend processing time by **25%** and boosted deployment efficiency by **30%** through Jenkins **CI/CD** automation
 - 📊 Observability with **Prometheus & Grafana**; root-cause analysis of production issues across distributed services
-- 🤖 Leveling up as an **AI-augmented engineer**: using Copilot agent workflows daily and wiring **MCP servers** into Java microservices
+- 🤖 Leveling up as an **AI-augmented engineer**: using AWS Kiro (Claude) agent workflows daily and wiring **MCP servers** into Java microservices
 - 🎓 **AWS Certified Cloud Practitioner** · Kubernetes Application Developer Training (KodeKloud) · Spring Boot L1 & L2 (Wipro)
 
 ## 🤖 AI-Native Development (2026 Stack)
@@ -19,12 +19,12 @@ I treat AI tooling like production infrastructure, with the same rigor as any ot
 
 | Layer | Tools I work with |
 |-------|------------------|
-| **Pair & agent coding** | GitHub Copilot (agent mode) for scaffolding, refactors & test generation |
+| **Pair & agent coding** | AWS Kiro, a Claude-powered agentic IDE, for spec-driven scaffolding, refactors & test generation |
 | **Context protocol** | **MCP (Model Context Protocol)**: connecting LLMs to real backend/DevOps context |
 | **AI in the JVM** | **Spring AI** & **LangChain4j** for chat, embeddings & MCP servers in Spring Boot |
 | **AI-assisted delivery** | AI code review, log-triage & root-cause analysis in CI pipelines |
 
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![AWS Kiro](https://img.shields.io/badge/AWS_Kiro-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-7C3AED?style=for-the-badge&logoColor=white)
 ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![LangChain4j](https://img.shields.io/badge/LangChain4j-1C3C3C?style=for-the-badge&logoColor=white)
