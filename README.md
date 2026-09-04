@@ -50,20 +50,20 @@ I treat AI tooling like production infrastructure — with the same rigor as any
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=curiouscode-io&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117" alt="stats"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=curiouscode-io&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117" alt="top languages"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ritikbansod&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117" alt="stats"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ritikbansod&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117" alt="top languages"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=curiouscode-io&hide_border=true&locale=en&background=0D1117&stroke=58A6FF&ring=4FC3F7&fire=F97316&currStreakLabel=4FC3F7" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=ritikbansod&hide_border=true&locale=en&background=0D1117&stroke=58A6FF&ring=4FC3F7&fire=F97316&currStreakLabel=4FC3F7" alt="streak"/>
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=curiouscode-io&theme=tokyonight" alt="productive time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ritikbansod&theme=tokyonight" alt="productive time"/>
 </div>
 
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/curiouscode-io/curiouscode-io/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/curiouscode-io/curiouscode-io/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/curiouscode-io/curiouscode-io/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikbansod/ritikbansod/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikbansod/ritikbansod/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ritikbansod/ritikbansod/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ## 🤝 Connect With Me
@@ -78,7 +78,7 @@ I treat AI tooling like production infrastructure — with the same rigor as any
 </div>
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/curiouscode-io">curiouscode-io</a> — endlessly curious, now with AI in the loop.</i>
+  <i>⭐ From <a href="https://github.com/ritikbansod">ritikbansod</a> — endlessly curious, now with AI in the loop.</i>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:2C5364,50:203A43,100:0F2027&text=Thanks%20for%20visiting!&fontSize=22&fontAlignY=72&animation=twinkling&section=footer" width="100%" alt="footer"/>
