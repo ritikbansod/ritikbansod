@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Ritik%20Bansod&fontSize=46&fontAlignY=34&desc=Java%20Backend%20%C2%B7%20DevOps%20%C2%B7%20AI-Augmented%20Systems&descSize=17&descAlignY=55&animation=fadeIn&section=header" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1C1210,50:5A2E22,100:C97B63&text=Ritik%20Bansod&fontSize=46&fontAlignY=34&desc=Java%20Backend%20%C2%B7%20DevOps%20%C2%B7%20AI-Augmented%20Systems&descSize=17&descAlignY=55&animation=fadeIn&section=header" width="100%" alt="header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=680&height=60&lines=Java+Backend+Developer+%40+Wipro;Spring+Boot+%E2%80%A2+Microservices+%E2%80%A2+Kubernetes;Kafka+%E2%80%A2+Helm+%E2%80%A2+CI%2FCD+%E2%80%A2+Service+Mesh;AI-Augmented+Engineering%3A+Copilot+%26+MCP" alt="typewriter"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E8A87C&center=true&vCenter=true&width=680&height=60&lines=Java+Backend+Developer+%40+Wipro;Spring+Boot+%E2%80%A2+Microservices+%E2%80%A2+Kubernetes;Kafka+%E2%80%A2+Helm+%E2%80%A2+CI%2FCD+%E2%80%A2+Service+Mesh;AI-Augmented+Engineering%3A+Copilot+%26+MCP" alt="typewriter"/>
 </div>
 
 ## 👨‍💻 About Me
@@ -50,12 +50,12 @@ I treat AI tooling like production infrastructure — with the same rigor as any
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ritikbansod&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117" alt="stats"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ritikbansod&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117" alt="top languages"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ritikbansod&show_icons=true&include_all_commits=true&count_private=true&bg_color=1C1210&title_color=E8A87C&text_color=D9C5B0&icon_color=E2725B&stroke=7C2D26&hide_border=false" alt="stats"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ritikbansod&layout=compact&bg_color=1C1210&title_color=E8A87C&text_color=D9C5B0&stroke=7C2D26&hide_border=false" alt="top languages"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=ritikbansod&hide_border=true&locale=en&background=0D1117&stroke=58A6FF&ring=4FC3F7&fire=F97316&currStreakLabel=4FC3F7" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=ritikbansod&locale=en&background=1C1210&stroke=7C2D26&ring=C97B63&fire=E2725B&currStreakLabel=E8A87C&currStreakNum=F3E4D0&sideLabels=D9C5B0&sideNums=F3E4D0&dates=A08776&borderRadius=8" alt="streak"/>
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ritikbansod&theme=tokyonight" alt="productive time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ritikbansod&theme=gruvbox" alt="productive time"/>
 </div>
 
 ## 🐍 Contribution Snake
@@ -81,4 +81,4 @@ I treat AI tooling like production infrastructure — with the same rigor as any
   <i>⭐ From <a href="https://github.com/ritikbansod">ritikbansod</a> — endlessly curious, now with AI in the loop.</i>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:2C5364,50:203A43,100:0F2027&text=Thanks%20for%20visiting!&fontSize=22&fontAlignY=72&animation=twinkling&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:C97B63,50:5A2E22,100:1C1210&text=Thanks%20for%20visiting!&fontSize=22&fontAlignY=72&animation=twinkling&section=footer" width="100%" alt="footer"/>
