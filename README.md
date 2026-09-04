@@ -12,6 +12,7 @@
 - 📊 Observability with **Prometheus & Grafana**; root-cause analysis of production issues across distributed services
 - 🤖 Leveling up as an **AI-augmented engineer**: using AWS Kiro and Claude agent workflows daily and wiring **MCP servers** into Java microservices
 - 🎓 **AWS Certified Cloud Practitioner** · Kubernetes Application Developer Training (KodeKloud) · Spring Boot L1 & L2 (Wipro)
+- 🏫 **B.E. in Electrical Engineering** (Nagpur, 2018 to 2022) now engineering distributed systems
 
 ## 🤖 AI-Native Development (2026 Stack)
 
@@ -33,11 +34,7 @@ I treat AI tooling like production infrastructure, with the same rigor as any ot
 
 ## 🛠️ Tech Stack
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,bash,docker,kubernetes,kafka,mysql,postgres,jenkins,prometheus,grafana,git,github,linux,maven,eclipse,postman,html,css,js&perline=11&theme=dark" alt="skills"/>
-  </a>
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="44" alt="Java" title="Java"/> <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="44" alt="Spring Boot" title="Spring Boot"/> <img src="https://skillicons.dev/icons?i=hibernate&theme=dark" width="44" alt="Hibernate" title="Hibernate"/> <img src="https://skillicons.dev/icons?i=python&theme=dark" width="44" alt="Python" title="Python"/> <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="44" alt="Bash" title="Bash"/> <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="44" alt="Docker" title="Docker"/> <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="44" alt="Kubernetes" title="Kubernetes"/> <img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="44" alt="Apache Kafka" title="Apache Kafka"/> <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="44" alt="MySQL" title="MySQL"/> <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="44" alt="PostgreSQL" title="PostgreSQL"/> <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="44" alt="Jenkins" title="Jenkins"/> <img src="https://skillicons.dev/icons?i=prometheus&theme=dark" width="44" alt="Prometheus" title="Prometheus"/> <img src="https://skillicons.dev/icons?i=grafana&theme=dark" width="44" alt="Grafana" title="Grafana"/> <img src="https://skillicons.dev/icons?i=git&theme=dark" width="44" alt="Git" title="Git"/> <img src="https://skillicons.dev/icons?i=github&theme=dark" width="44" alt="GitHub" title="GitHub"/> <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="44" alt="Linux" title="Linux"/> <img src="https://skillicons.dev/icons?i=maven&theme=dark" width="44" alt="Maven" title="Maven"/> <img src="https://skillicons.dev/icons?i=eclipse&theme=dark" width="44" alt="Eclipse IDE" title="Eclipse IDE"/> <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="44" alt="Postman" title="Postman"/> <img src="https://skillicons.dev/icons?i=html&theme=dark" width="44" alt="HTML" title="HTML"/> <img src="https://skillicons.dev/icons?i=css&theme=dark" width="44" alt="CSS" title="CSS"/> <img src="https://skillicons.dev/icons?i=js&theme=dark" width="44" alt="JavaScript" title="JavaScript"/> <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="44" alt="Angular" title="Angular"/> <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="44" alt="AWS" title="AWS"/></p>
 
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Strimzi](https://img.shields.io/badge/Strimzi-326DE6?style=for-the-badge&logoColor=white)
