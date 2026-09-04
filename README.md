@@ -50,9 +50,9 @@ I treat AI tooling like production infrastructure, with the same rigor as any ot
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ritikbansod&show_icons=true&include_all_commits=true&count_private=true&bg_color=1C1210&title_color=E8A87C&text_color=D9C5B0&icon_color=E2725B&stroke=7C2D26&hide_border=false" alt="stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ritikbansod&show_icons=true&include_all_commits=true&count_private=true&bg_color=1C1210&title_color=E8A87C&text_color=D9C5B0&icon_color=E2725B&stroke=7C2D26&hide_border=false" alt="stats"/>
   <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ritikbansod&layout=compact&bg_color=1C1210&title_color=E8A87C&text_color=D9C5B0&stroke=7C2D26&hide_border=false" alt="top languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ritikbansod&layout=compact&bg_color=1C1210&title_color=E8A87C&text_color=D9C5B0&stroke=7C2D26&hide_border=false" alt="top languages"/>
   <br/>
   <img src="https://streak-stats.demolab.com?user=ritikbansod&locale=en&background=1C1210&stroke=7C2D26&ring=C97B63&fire=E2725B&currStreakLabel=E8A87C&currStreakNum=F3E4D0&sideLabels=D9C5B0&sideNums=F3E4D0&dates=A08776&borderRadius=8" alt="streak"/>
   <br/>
@@ -70,9 +70,6 @@ I treat AI tooling like production infrastructure, with the same rigor as any ot
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://ritikbansod.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-ritikbansod.github.io-C97B63?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
-  </a>
   <a href="https://linkedin.com/in/ritik-bansod-3267011b5">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
