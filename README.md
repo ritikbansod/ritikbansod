@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Ritik%20Bansod&fontSize=46&fontAlignY=34&desc=Java%20Backend%20%26%20DevOps%20Engineer%20%7C%20AI-Augmented%20Systems&descSize=17&descAlignY=55&animation=fadeIn&section=header" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Ritik%20Bansod&fontSize=46&fontAlignY=34&desc=Java%20Backend%20%C2%B7%20DevOps%20%C2%B7%20AI-Augmented%20Systems&descSize=17&descAlignY=55&animation=fadeIn&section=header" width="100%" alt="header"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=680&height=60&lines=Java+Backend+Developer+%40+Wipro;Spring+Boot+%E2%80%A2+Microservices+%E2%80%A2+Kubernetes;Kafka+%E2%80%A2+Helm+%E2%80%A2+CI%2FCD+%E2%80%A2+Service+Mesh;AI-Augmented+Engineering%3A+Copilot+%26+MCP" alt="typewriter"/>
