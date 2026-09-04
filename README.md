@@ -68,6 +68,9 @@ I treat AI tooling like production infrastructure, with the same rigor as any ot
 ## 🤝 Connect With Me
 
 <div align="center">
+  <a href="https://ritikbansod.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-ritikbansod.github.io-C97B63?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://linkedin.com/in/ritik-bansod-3267011b5">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
