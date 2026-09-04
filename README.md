@@ -35,7 +35,7 @@ I treat AI tooling like production infrastructure — with the same rigor as any
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,bash,docker,kubernetes,mysql,postgres,apachekafka,jenkins,prometheus,grafana,git,github,linux,maven,intellijidea,postman,swagger&perline=10&theme=dark" alt="skills"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,bash,docker,kubernetes,kafka,mysql,postgres,jenkins,prometheus,grafana,git,github,linux,maven,eclipse,postman,html,css,js&perline=11&theme=dark" alt="skills"/>
   </a>
 </p>
 
