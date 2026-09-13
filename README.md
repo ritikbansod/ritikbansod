@@ -1,18 +1,54 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1C1210,50:5A2E22,100:C97B63&text=Ritik%20Bansod&fontSize=46&fontAlignY=34&desc=Java%20Backend%20%C2%B7%20DevOps%20%C2%B7%20AI-Augmented%20Systems&descSize=17&descAlignY=55&animation=fadeIn&section=header" width="100%" alt="header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E8A87C&center=true&vCenter=true&width=680&height=60&lines=Java+Backend+Developer+%40+Wipro;Spring+Boot+%E2%80%A2+Microservices+%E2%80%A2+Kubernetes;Kafka+%E2%80%A2+Helm+%E2%80%A2+CI%2FCD+%E2%80%A2+Service+Mesh;AI-Augmented+Engineering%3A+Kiro+%26+MCP" alt="typewriter"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E8A87C&center=true&vCenter=true&width=700&height=60&lines=Java+Backend+Developer+%40+Wipro;Creator+of+Kview+(Open-Source+Kafka+UI+%26+MCP);Spring+Boot+%E2%80%A2+Microservices+%E2%80%A2+Kubernetes;Kafka+%E2%80%A2+Helm+%E2%80%A2+CI%2FCD+%E2%80%A2+Service+Mesh;AI-Augmented+Engineering%3A+Kiro+%26+MCP" alt="typewriter"/>
 </div>
+
+## 🚀 Featured Open Source Project: Kview (v1.0.0)
+
+<div align="center">
+  <a href="https://github.com/ritikbansod/kview">
+    <img src="https://raw.githubusercontent.com/ritikbansod/ritikbansod.github.io/main/assets/kview-arch.png" width="95%" alt="Kview Architecture Preview" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.5);"/>
+  </a>
+  <br/><br/>
+  <a href="https://github.com/ritikbansod/kview/releases/tag/v1.0.0">
+    <img src="https://img.shields.io/badge/Release-v1.0.0-6EE7B7?style=for-the-badge&logo=github&logoColor=black" alt="Release"/>
+  </a>
+  <a href="https://github.com/ritikbansod/kview/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-Apache_2.0-blue?style=for-the-badge" alt="License"/>
+  </a>
+  <a href="https://github.com/ritikbansod/kview/pkgs/container/kview">
+    <img src="https://img.shields.io/badge/Docker-GHCR_Multi--Arch-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </a>
+  <a href="https://modelcontextprotocol.io">
+    <img src="https://img.shields.io/badge/MCP-16_AI_Tools-7C3AED?style=for-the-badge&logoColor=white" alt="MCP"/>
+  </a>
+</div>
+
+**[Kview](https://github.com/ritikbansod/kview)** is an ultra-lightweight, zero-dependency Apache Kafka® web management tool, CLI, and Model Context Protocol (MCP) server.
+
+- 📊 **Real-Time Topology & Dashboard:** Interactive SVG pipeline connecting Producers → Brokers → Partitions → Consumers with live throughput counters.
+- 🔍 **Non-Committing Safe Reads:** Browse topics via partition assignment seeks and stream records over Server-Sent Events (SSE) without triggering consumer group rebalances.
+- 📜 **Pluggable Schema Registry SPI:** Confluent, Redpanda, Karapace, and Apicurio support with 5-byte wire sniffing, Avro/JSON codecs, and in-memory caching.
+- 🔐 **Multi-Cluster & Enterprise Auth:** Runtime cluster switching supporting mTLS (PEM paste), SASL (PLAIN, SCRAM-SHA-256/512), and OAuth2 OIDC client credentials.
+- 🤖 **16-Tool AI Agent MCP Server:** Connect Claude Desktop, Cursor, and AI coding agents directly to Kafka to inspect lag, query metadata, and produce test messages over JSON-RPC.
+
+```bash
+# Run instantly with Docker:
+docker run -d -p 8080:8080 --name kview ghcr.io/ritikbansod/kview:1.0.0
+```
 
 ## 👨‍💻 About Me
 
 - 🔧 **Java Backend Developer** with **3+ years** at **Wipro Limited, Pune**, designing enterprise-grade web apps and cloud-native microservices with **Core Java, Spring Boot & REST**
+- 🚀 **Open Source Author & Maintainer** of **[Kview](https://github.com/ritikbansod/kview)** (Apache Kafka® UI, CLI & MCP server)
 - ☸️ Deploying containerized services on **Kubernetes with Helm** inside **Service Mesh** environments; **Kafka + Strimzi** for event-driven communication
 - ⚡ Cut backend processing time by **25%** and boosted deployment efficiency by **30%** through Jenkins **CI/CD** automation
 - 📊 Observability with **Prometheus & Grafana**; root-cause analysis of production issues across distributed services
 - 🤖 Leveling up as an **AI-augmented engineer**: using AWS Kiro and Claude agent workflows daily and wiring **MCP servers** into Java microservices
 - 🎓 **AWS Certified Cloud Practitioner** · Kubernetes Application Developer Training (KodeKloud) · Spring Boot L1 & L2 (Wipro)
 - 🏫 **B.E. in Electrical Engineering** (Nagpur, 2018 to 2022) now engineering distributed systems
+
 
 ## 🤖 AI-Native Development (2026 Stack)
 
